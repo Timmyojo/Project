@@ -1,6 +1,3 @@
-import numbers
-
-
 def max_number(numbers):
     max_number = numbers[0]
     for number in numbers:
